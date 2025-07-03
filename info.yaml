@@ -7,9 +7,9 @@ project:
   language:     "Verilog"
   clock_hz:     0                                           
   tiles: "1x1"
-  top_module:  "tt_um_umar316798"
+  top_module:  "tt_um_umar316798_test"
   source_files:
-    - "project.v"
+    - "tt_um_umar316798_testtt.v"
 
 # Pin mappings
 pinout:
