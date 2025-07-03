@@ -6,7 +6,7 @@
 
 `default_nettype none
 
-module tt_um_umar316798 (
+module tt_um_umar316798_test (
   input  wire [7:0] ui_in,    // standard 8-bit user inputs
   output wire [7:0] uo_out,   // standard 8-bit user outputs
   input  wire [7:0] uio_in,   // bidirectional IO in
